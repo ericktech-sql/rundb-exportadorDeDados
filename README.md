@@ -45,8 +45,8 @@ O **RunDB** foi criado para simplificar a rotina de quem precisa exportar dados,
 
 ## 🗄️ Sistemas mapeados
 
-| SGBD || SGBD | Status | <br>
-| :--- | :---: | :---: |<br>
+| Sistema | SGBD | Status | <br>
+| ----------------------- |<br>
 | **Host** | **Firebird** | ✅ Concluído | <br>
 | **Gdoor** | **Firebird** | ✅ Concluído | <br>
 
