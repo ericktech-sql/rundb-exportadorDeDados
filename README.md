@@ -52,6 +52,7 @@ O **RunDB** foi criado para simplificar a rotina de quem precisa exportar dados,
 - Pessoas (Clientes e fornecedores) | 🔄 Em desenvolvimento
 
 <br>
+| ----------------------- |<br>
 | **Gdoor** | **Firebird** |
 - Produtos | ✅ Concluído
 - Pessoas (Clientes e fornecedores) | 🔄 Em desenvolvimento
