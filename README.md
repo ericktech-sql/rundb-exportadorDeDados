@@ -47,8 +47,14 @@ O **RunDB** foi criado para simplificar a rotina de quem precisa exportar dados,
 
 | Sistema | SGBD | Status | <br>
 | ----------------------- |<br>
-| **Host** | **Firebird** | ✅ Concluído | <br>
-| **Gdoor** | **Firebird** | ✅ Concluído | <br>
+| **Host** | **Firebird** | 
+- Produtos | ✅ Concluído
+- Pessoas (Clientes e fornecedores) | 🔄 Em desenvolvimento
+
+<br>
+| **Gdoor** | **Firebird** |
+- Produtos | ✅ Concluído
+- Pessoas (Clientes e fornecedores) | 🔄 Em desenvolvimento
 
 <!--
 | **MySQL** / MariaDB | 🔄 Em planejamento |
