@@ -1,9 +1,9 @@
 # 🗄️ RunDB - Exportador de Dados
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/rundb-exportadorDeDados)]
-(https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
 
-[![GitHub all releases](https://img.shields.io/github/downloads//ericktech-sql/rundb-exportadorDeDados/total)](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
+
+[![GitHub all releases](https://img.shields.io/github/downloads/ericktech-sql/rundb-exportadorDeDados/total)](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
 
 [![License](https://img.shields.io/badge/licença-MIT-blue)](./LICENSE)
 
@@ -76,12 +76,14 @@ O **RunDB** foi criado para simplificar a rotina de quem precisa exportar dados,
 O executável do **RunDB** é empacotado como um arquivo único e auto-contido para Windows.
 
 ➡️ **Acesse a [Página de Releases](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases) para baixar a versão mais recente.**
-ou clique para baixar: https://github.com/ericktech-sql/rundb-exportadorDeDados/releases/download/exportador-de-dados/RunDB.-.Exportador.de.dados.zip
+<br><br>
+ou clique para baixar: <br><br>
+https://github.com/ericktech-sql/rundb-exportadorDeDados/releases/download/exportador-de-dados/RunDB.-.Exportador.de.dados.zip
 
 ### Como Instalar:
-1. Faça o download do arquivo `RunDB_Exportador_v[X.X.X].zip`.
+1. Faça o download do arquivo `RunDB.-.Exportador.de.dados.zip`.
 2. Extraia o conteúdo para uma pasta de sua preferência (ex: `C:\RunDB`).
-3. Execute o arquivo `RunDB.exe`.
+3. Execute o arquivo `RunDB - Iniciar.Ink`.
 
 > ⚠️ **Nota de Segurança:** Por ser um software independente, o Windows SmartScreen pode exibir um aviso. Isso ocorre porque o aplicativo não possui um certificado digital de assinatura de código. Clique em **"Mais informações"** e depois em **"Executar mesmo assim"**.
 
