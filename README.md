@@ -1,6 +1,6 @@
 # 🗄️ RunDB - Exportador de Dados
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/rundb-exportadorDeDados)]
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/rundb-exportadorDeDados)
 
 
 [![GitHub all releases](https://img.shields.io/github/downloads/ericktech-sql/rundb-exportadorDeDados/total)](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
