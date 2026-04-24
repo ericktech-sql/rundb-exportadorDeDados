@@ -1,8 +1,10 @@
 # 🗄️ RunDB - Exportador de Dados
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ericktech-sql/rundb-exportadorDeDados)]
-<!--(https://github.com/[SEU_USUARIO]/[SEU_REPOSITORIO]/releases)-->
-[![GitHub all releases](https://img.shields.io/github/downloads/[SEU_USUARIO]/[SEU_REPOSITORIO]/total)](https://github.com/[SEU_USUARIO]/[SEU_REPOSITORIO]/releases) -->
+(https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
+
+[![GitHub all releases](https://img.shields.io/github/downloads//ericktech-sql/rundb-exportadorDeDados/total)](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases)
+
 [![License](https://img.shields.io/badge/licença-MIT-blue)](./LICENSE)
 
 **Exporte seus dados corporativos para Excel com agilidade.**  
@@ -73,7 +75,8 @@ O **RunDB** foi criado para simplificar a rotina de quem precisa exportar dados,
 
 O executável do **RunDB** é empacotado como um arquivo único e auto-contido para Windows.
 
-<!-- ➡️ **Acesse a [Página de Releases](https://github.com/[SEU_USUARIO]/[SEU_REPOSITORIO]/releases) para baixar a versão mais recente.** -->
+➡️ **Acesse a [Página de Releases](https://github.com//ericktech-sql/rundb-exportadorDeDados/releases) para baixar a versão mais recente.**
+ou clique para baixar: https://github.com/ericktech-sql/rundb-exportadorDeDados/releases/download/exportador-de-dados/RunDB.-.Exportador.de.dados.zip
 
 ### Como Instalar:
 1. Faça o download do arquivo `RunDB_Exportador_v[X.X.X].zip`.
